@@ -1,18 +1,35 @@
+div {
+    border-style: solid;
+    margin: 5px;
+    padding: 2px;
+    font-family: Arial;
+}
+
 .container {
-    width: 300px;
+    width: 200px;
+    border-style: none;
 }
 
 .red {
-    border-style: solid;
     border-color: red;
 }
 
 .green {
-    border-style: solid;
     border-color: green;
 }
 
 .blue {
-    border-style: solid;
     border-color: blue;
+}
+
+.orange {
+    border-color: orange;
+}
+
+.purple {
+    border-color: purple;
+}
+
+.black {
+    border-color: black;
 }
