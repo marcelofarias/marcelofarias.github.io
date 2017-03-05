@@ -1,0 +1,18 @@
+.container {
+    width: 300px;
+}
+
+.red {
+    border-style: solid;
+    border-color: red;
+}
+
+.green {
+    border-style: solid;
+    border-color: green;
+}
+
+.blue {
+    border-style: solid;
+    border-color: blue;
+}
